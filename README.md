@@ -1,3 +1,6 @@
+
+![Cloud_Banner](cloud_banner_1.jpeg)
+
 <h1 align="center">Hi 👋, I'm Ikteaja Hasan</h1>
 <h3 align="center">Cloud Engineer from Germany</h3>
 
