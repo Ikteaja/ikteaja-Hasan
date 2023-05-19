@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikteaja&label=Profile%20views&color=0e75b6&style=flat" alt="ikteaja" /> </p>
 
-- 💬 Ask me about **Cloud Automation, Devops,Data Engneerin, IAAC**
+- 💬 Ask me about **Cloud Solution and Automation, Devops, Data Engneering, IAAC**
 
 - 📫 How to reach me **ikteaja@gmail.com**
 
